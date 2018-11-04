@@ -132,4 +132,3 @@ function indexFinder(arr){
 
 var indexes = indexFinder(randomNumbers);
 
-console.log(indexes);
